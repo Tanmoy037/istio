@@ -7,4 +7,4 @@
 
 **VirtualService:** How you route your traffic to a given destination(possible canary deployment using this)
 
-**DestinationRule:** Configure what happens to traffic for that destination
+**DestinationRule:** Configure what happens to traffic for that destination(how traffic is handled once it reaches a particular version)
