@@ -12,6 +12,7 @@
 **Inject data-plane(envoy) in pods:** ```kubectl label namespace default istio-injection=enabled```
 
 *Resource* to leand istio - 
-https://www.youtube.com/watch?v=16fgzklcF7Y
-https://www.youtube.com/watch?v=voAyroDb6xk
+- https://www.youtube.com/watch?v=16fgzklcF7Y
+- https://www.youtube.com/watch?v=voAyroDb6xk
+- https://www.youtube.com/watch?v=eSNetKBe7Z8
 
